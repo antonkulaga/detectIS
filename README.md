@@ -2,6 +2,9 @@
 
 # detectIS
 
+#NOTE this is a personal fork for detectIS (please use official one) that is used for personal research, please consider using official detectIS
+#the singularity container was published to  library://antonkulaga/bio/detectis:latest for the ease of use
+
 DetectIS is a pipeline specifically designed to detect exogenous DNA integration sites using DNA or RNA paired-end sequencing data.
 The workflow manager [nextflow](https://www.nextflow.io/) is used with a configuration file and a Singularity image 
 
